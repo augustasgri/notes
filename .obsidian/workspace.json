@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "5ff8ac27ae5f8883",
+    "type": "split",
+    "children": [
+      {
+        "id": "e325662453759ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db484d05df7815a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c41bd0cbdb19005",
+    "type": "split",
+    "children": [
+      {
+        "id": "6995f8138c66bf4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c338876f8fd55ada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dc7a50e50fadeea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a880c87a6d638b70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0eac97c4b0b25058",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a69fa03fa36e728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed67a99915592b30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Code Review.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ab02829a38675a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Code Review.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "885acf1dc1dd3d91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fbdad50d10413a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code Review.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3db484d05df7815a",
+  "lastOpenFiles": [
+    "Signin via NodeCLIAuthenticator.md",
+    "Code Review.md",
+    "Pasted image 20240723160252.png",
+    "Access Token Generation.md",
+    "a.md",
+    "Code Value bug.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
